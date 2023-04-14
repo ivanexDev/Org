@@ -1,0 +1,22 @@
+
+.sectionOrg{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sectionOrg h3{
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 72px;
+    color: #6278F7;
+    padding-bottom: 24px;
+    border-bottom: 4px solid #6278F7;
+}
+
+.sectionOrg img{
+    cursor: pointer;
+    position: absolute;
+    right: 30%;
+}
